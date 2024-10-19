@@ -11,7 +11,7 @@ kubectl get <commands>
 ```
 
 - [X] Yes
-- [] No
+- [ ] No
 
 - [ ] Turn on GitHub Pages
 - [ ] Outline my portfolio
