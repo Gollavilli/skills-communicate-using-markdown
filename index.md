@@ -9,4 +9,7 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ```
 kubectl get <commands>
 ```
+
+[X] Yes
+[] No
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
