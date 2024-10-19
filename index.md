@@ -10,8 +10,8 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 kubectl get <commands>
 ```
 
-[X] Yes
-[] No
+- [X] Yes
+- [] No
 
 - [ ] Turn on GitHub Pages
 - [ ] Outline my portfolio
